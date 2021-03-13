@@ -1,5 +1,8 @@
 package pages;
 
-public class Home {
-
+public class Home 
+{
+  public void f1()
+	{
+}
 }
