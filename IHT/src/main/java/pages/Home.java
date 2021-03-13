@@ -6,4 +6,7 @@ public class Home
 	{
 	  System.out.println("hello");
 }
+public void f2()
+{
+}
 }
